@@ -10,7 +10,7 @@
  *
  * Compilation Information
  *    Compiler/Assembler   	:   	Currently used DEV_C++. You can use any compiler. Just undef _DEV_C_
- *    Version              	:   	3.2 
+ *    Version              	:   	5.5.3 
  *    
  *
  * Hardware Platform       	:   	Compatible only for 32bit processors
@@ -18,7 +18,7 @@
  *  Author(s)           	:   	Aravind D Chakravarti 
  *									Email: aravind.chakravarti@gmail.com
  *                          		
- * <Version Number>  <Author>  	<date>		<defect Number>			<Modification(s)>
+ * <Version Number>  <Author>  	<date>		<Change Request>		<Modification(s)>
  *  1.0             Aravind    	10-02-2016			--			Base Version
  *	1.1				Aravind		20-02-2016			--			Added comments 	
  *  1.2				Aravind		22-02-2016			--			For UART support, receives UART buffer
